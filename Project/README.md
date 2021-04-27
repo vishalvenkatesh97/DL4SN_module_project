@@ -37,7 +37,7 @@ The TFLite model (i.e **model.h**) is imported to the Arduino Board. The **Class
 
 ## Testing the DL model
 
-We test the model on both sythetic and real-world data
+We test the model on both synthetic and real-world data
 
 ![results_syn](https://user-images.githubusercontent.com/72914255/116250805-b2622000-a78b-11eb-8884-f3e731520a9d.JPG)
 
