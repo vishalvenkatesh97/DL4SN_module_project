@@ -7,4 +7,4 @@ The module project is **Water Quality Assessment using Visual Color** and it dem
 It mainly consists of two main parts:
 
 - a report folder that contains a detailed explanation of the project.
-- a project folder that contains all the code, data and AI model.
+- a project folder that contains all the code, data, model and the procedure.
