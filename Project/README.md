@@ -10,7 +10,7 @@ We utilize the **Arduino Create Web Editor** - a cloud-based tool used for progr
 
 ## Data Capture
 
-The **object_color_capture.ino** is utilized that samples color data from objects when placed near it. The board sends the color data as a CSV log over the USB cable.
+The **object_color_capture.ino** is utilized that samples color data from objects when placed near it. The board sends the data from the color sensor as a CSV log over the USB cable.
 
 ![create_fruit_cap1](https://user-images.githubusercontent.com/72914255/116246008-2f3ecb00-a787-11eb-8258-9d30d614de63.gif)
 
