@@ -71,6 +71,10 @@ With model architecture chosen as a sequential model with set of set Dense (8,8,
 ![LR_2](https://user-images.githubusercontent.com/72914255/116256711-10453680-a791-11eb-910b-71641b97a32d.JPG)
 ![LR_3](https://user-images.githubusercontent.com/72914255/116256741-16d3ae00-a791-11eb-9ba3-c23657e5b2eb.JPG)
 
+- **Batch Size**: The selection of appropriate batch size influences the update of weights and bias in the network during the back-propagation step. A smaller batch size would result update due to lesser samples and vice versa for a bigger batch size. We quantitatively evaluate different batch sizes based on the the accuracy scores. From this experimentation, a batch size of 4 depicts the highest accuracy score.
+![dv11](https://user-images.githubusercontent.com/72914255/116258611-bb0a2480-a792-11eb-9c5b-339f0f5593a9.JPG)
+
+
 ## RESULTS AND OBSERVATION
 
 We test the capabilities of the of the proposed Edge AI project on synthetic and real-world examples. The results and observations were as follows:
